@@ -11,3 +11,4 @@ To ADD
 * Toasts
 * Buttons
 * Forms
+* Image Hover Effects
