@@ -12,3 +12,5 @@ To ADD
 * Buttons
 * Forms
 * Image Hover Effects
+* Tooltips
+* 2D Transformations
